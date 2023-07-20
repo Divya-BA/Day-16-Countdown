@@ -1,0 +1,14 @@
+h2{
+    text-align: center;
+    margin: 350px;
+    font-size:10vmin;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:orangered;
+    
+    
+}
+body{
+    
+    background-image: radial-gradient(circle,rgb(97, 7, 171),white,rgb(35, 201, 35),rgb(214, 111, 8));
+
+}
